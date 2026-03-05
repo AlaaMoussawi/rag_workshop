@@ -1,0 +1,6 @@
+chromadb
+sentence-transformers
+nltk
+requests
+beautifulsoup4
+ollama
